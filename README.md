@@ -14,7 +14,6 @@
   </a>
 </p>
 
-![demo](https://user-images.githubusercontent.com/62770500/199337431-d632cc3c-12fb-40db-8f96-0d5e55555579.png)
 ---
 ## 🚨 About this repo (please read!)
 
